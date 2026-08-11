@@ -1,0 +1,3 @@
+display_name: Book Companion
+short_description: 将完整书籍处理为高质量中文伴读稿，支持 PDF/EPUB/MOBI/TXT
+default_prompt: 帮我处理这本书

@@ -1,0 +1,21 @@
+{
+  "manifest_version": "2.1",
+  "status": "created",
+  "book": {
+    "title": "",
+    "source_file": "",
+    "format": ""
+  },
+  "location_scheme": "pdf_range",
+  "units": [],
+  "workflow": {
+    "max_concurrent_subagents": 3,
+    "reader_dir": "reader/",
+    "evidence_dir": "evidence/",
+    "review_dir": "review/",
+    "final_file": "final/book-companion.md",
+    "target_unit_chars_min": 10000,
+    "target_unit_chars_max": 25000
+  },
+  "companion_format": "chapter_readers"
+}
